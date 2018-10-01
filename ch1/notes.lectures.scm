@@ -57,3 +57,4 @@
       (move (-1+ n) from spare to)
       (print-move from to)
       (move (-1+ n) spare to from))))
+
